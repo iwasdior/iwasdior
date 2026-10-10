@@ -22,6 +22,7 @@
       <ul>
         <li>📌 <b>Located:</b> Maryland</li>
         <li>📖 <b>Favorite Media:</b> Dante's Inferno</li>
+        <p>Hello! I was (am) Dior. I am 16 years old, currently a high school student, with a heavy interest towards engineering, robotics, coding, and more. I aspire to one day be a successful engineer using my skills to improve the quality of life in my state, country, or even our Earth.</p>
       </ul>
     </td>
     <td width="40%" align="center" valign="top">
@@ -50,11 +51,11 @@
   <tr>
     <td valign="top">
       <!-- Text box: edit the heading, paragraph, and list however you like -->
-      <h2>🎧 On repeat</h2>
-      <p>This is a text box, just like the "About me" one. Write whatever you want here: what you're listening to, what you're building, or anything else you want people to see.</p>
+      <h2>⚙️ Projects</h2>
+      <p>No projects at the moment. Apolocheese.</p>
       <ul>
-        <li>🛠️ <b>Working on:</b> your project here</li>
-        <li>🎵 <b>Current song:</b> 50//50 by Vantage</li>
+        <li>🛠️ <b>WIP:</b> N/A</li>
+        <li>🎵 <b>WIP:</b> N/A</li>
       </ul>
     </td>
   </tr>
