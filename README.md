@@ -38,9 +38,9 @@
     <td width="50%" align="center" valign="top">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=iwasdior&theme=dark&hide_border=true" width="100%" alt="GitHub Streak" />
       <br /><br />
-      <!-- Spotify code image linked to the track -->
+      <!-- Spotify badge linked to the track -->
       <a href="https://open.spotify.com/track/40bj08VSaRDyZ2Z94ystNs">
-        <img src="https://scannables.scdn.co/uri/plain/png/000000/white/640/spotify:track:40bj08VSaRDyZ2Z94ystNs" width="70%" alt="50//50 by Vantage" />
+        <img src="https://img.shields.io/badge/Now%20Playing-50%2F%2F50%20by%20Vantage-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="50//50 by Vantage" />
       </a>
     </td>
   </tr>
