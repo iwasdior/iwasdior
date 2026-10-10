@@ -40,10 +40,9 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=iwasdior&theme=dark&hide_border=true" width="100%" alt="GitHub Streak" />
       <br /><br />
       <!-- Custom Fixed Song Card: 50//50 by Vantage -->
-      <a href="https://open.spotify.com/track/5050_TRACK_ID">
-        <img src="https://api.vantezzen.io/music?title=50%2F%2F50&artist=Vantage&theme=dark&bg=0d1117" width="100%" alt="Now Playing - 50//50 by Vantage" />
+      <a href="https://open.spotify.com/track/213K3C29k13i6D8c3g37i8">
+        <img src="https://i.scdn.co/image/ab67616d0000b273b4d402347952e4242e47264a" width="100%" alt="50//50 by Vantage" />
       </a>
     </td>
   </tr>
-</table>
-</table>
+</table>s
