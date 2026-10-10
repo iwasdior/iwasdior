@@ -13,8 +13,8 @@
                         \ \._,\ '/.'   \_.'                                            |_|      
                          `--'  `"                                                               
 ```
+<!-- Table 1: Top Section -->
 <table>
-  <!-- Top Row: About Me & GIF -->
   <tr>
     <td width="60%" valign="top">
       <h2>👤 About me</h2>
@@ -25,20 +25,19 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="top">
-      <img src="./deepwoken.gif" width="100%" alt="whatareyoulookingfor" />
+      <img src="./your-gif-filename.gif" width="100%" alt="Dior Graphic" />
     </td>
   </tr>
+</table>
 
-  <!-- Bottom Row: Balanced Stats & Widget -->
+<!-- Table 2: Stats Section (No Height Locking) -->
+<table width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=iwasdior&show_icons=true&theme=dark&hide_border=true&hide_rank=true" width="100%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&hide_rank=true" width="100%" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=iwasdior&theme=dark&hide_border=true" width="100%" alt="GitHub Streak" />
-      <p align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=22C55E&center=true&vCenter=true&width=300&lines=Engineering+%26+Robotics;High+School+Developer;Building+Future+Projects" alt="Typing Banner" />
-      </p>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" width="100%" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
