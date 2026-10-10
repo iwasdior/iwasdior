@@ -28,10 +28,12 @@
       <img src="https://raw.githubusercontent.com/iwasdior/iwasdior/main/deepwoken.gif" width="100%" alt="graphic" />
     </td>
   </tr>
-  <!-- Middle: GitHub stats on the left (spans 3 rows), streak / Spotify / text box stacked on the right -->
+  <!-- Bottom: stats + GIF on the left (spans 3 rows), streak / Spotify / text box stacked on the right -->
 <tr>
     <td width="60%" rowspan="3" align="center" valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=iwasdior&show_icons=true&theme=dark&hide_border=true&hide_rank=true" width="100%" alt="GitHub Stats" />
+      <br /><br />
+      <img src="https://raw.githubusercontent.com/iwasdior/iwasdior/main/destroyman-destroyman-iii.gif" width="100%" alt="erm" />
     </td>
     <td width="40%" align="center" valign="top">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=iwasdior&theme=dark&hide_border=true" width="100%" alt="GitHub Streak" />
@@ -54,12 +56,6 @@
         <li>🛠️ <b>Working on:</b> your project here</li>
         <li>🎵 <b>Current song:</b> 50//50 by Vantage</li>
       </ul>
-    </td>
-  </tr>
-  <!-- Bottom Row: GIF -->
-<tr>
-    <td colspan="2" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/iwasdior/iwasdior/main/destroyman-destroyman-iii.gif" width="50%" alt="erm" />
     </td>
   </tr>
 </table>
