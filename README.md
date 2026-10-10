@@ -26,7 +26,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="top">
-      <img src="PASTE_DIRECT_GIF_LINK_HERE" width="100%" alt="Dior Graphic" />
+      <img src="https://tenor.com/eakQto5JWnt.gif" width="100%" alt="hi" />
     </td>
   </tr>
 </table>
