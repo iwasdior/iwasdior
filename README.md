@@ -50,13 +50,12 @@
       <!-- Text box: this text is sized to match the height of the left column.
            If you replace it with shorter text, the gap above the Spotify badge will come back. -->
       <h2>⚙️ Projects</h2>
-      <p>These are the things I'm building, tinkering with, and learning right now. Swap the placeholders below for your real projects, and add a link to each repo if it's public.</p>
+      <p>From time to time, I'll work on something big enough to share with the world. As of right now, **I am not working on anything**. Apolocheese.</p>
       <ul>
-        <li>🤖 <b>Robotics:</b> Describe a robot or electronics build, what it does, and what you learned from it.</li>
-        <li>💻 <b>Coding:</b> Name a program, site, or script you wrote, and the language or tools you used.</li>
-        <li>🔧 <b>Engineering:</b> A design, build, or experiment you're proud of, even if it's still unfinished.</li>
-        <li>🌍 <b>Big picture:</b> Something that ties back to improving people's lives in Maryland and beyond.</li>
-        <li>📚 <b>Learning:</b> A topic, language, or skill you're studying this month.</li>
+        <li>🤖 <b>NA:</b> WIP.</li>
+        <li>💻 <b>NA:</b> WIP.</li>
+        <li>🔧 <b>NA:</b> WIP.</li>
+        <li>📚 <b>NA:</b> WIP.</li>
       </ul>
     </td>
   </tr>
