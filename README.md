@@ -29,17 +29,13 @@
     </td>
   </tr>
 
-  <!-- Bottom Row: Left Stats & Right Nested Box Column -->
+  <!-- Bottom Row: Left (Stats + GIF) & Right (Streak + Spotify) -->
   <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=iwasdior&show_icons=true&theme=dark&hide_border=true&hide_rank=true" width="100%" alt="GitHub Stats" />
-    </td>
     <td width="50%" valign="top">
-      <!-- Nested Table to create framed sub-boxes -->
       <table width="100%">
         <tr>
           <td align="center" valign="top">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=iwasdior&theme=dark&hide_border=true" width="100%" alt="GitHub Streak" />
+            <img src="https://github-readme-stats.vercel.app/api?username=iwasdior&show_icons=true&theme=dark&hide_border=true&hide_rank=true" width="100%" alt="GitHub Stats" />
           </td>
         </tr>
         <tr>
@@ -48,6 +44,25 @@
           </td>
         </tr>
       </table>
+    </td>
+    <td width="50%" valign="top">
+      <table width="100%">
+        <tr>
+          <td align="center" valign="top">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=iwasdior&theme=dark&hide_border=true" width="100%" alt="GitHub Streak" />
+          </td>
+        </tr>
+        <tr>
+          <td align="center" valign="top">
+            <a href="https://spotify-github-readme.vercel.app/api/spotify-compiler">
+              <img src="https://spotify-github-readme.vercel.app/api/spotify-playing" width="100%" alt="Spotify Now Playing" />
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
     </td>
   </tr>
 </table>
