@@ -25,18 +25,19 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="top">
-      <img src="./deepwoke.gif" width="100%" alt="destroyman3" />
+      <img src="./deepwoken.gif" width="100%" alt="graphic" />
     </td>
   </tr>
 
-  <!-- Bottom Row: Streak Card + Typing Banner (Fills Gap) -->
+  <!-- Bottom Row: Stats & Image Filler -->
   <tr>
     <td width="50%" align="center" valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=iwasdior&show_icons=true&theme=dark&hide_border=true&hide_rank=true" width="100%" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center" valign="top">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=iwasdior&theme=dark&hide_border=true" width="100%" alt="GitHub Streak" />
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&pause=1000&color=22C55E&center=true&vCenter=true&width=350&height=35&lines=High+School+Developer;Robotics+%26+Engineering;Building+Future+Projects" alt="Typing Banner" />
+      <br /><br />
+      <img src="YOUR_IMAGE_URL_HERE" width="100%" alt="erm" />
     </td>
   </tr>
 </table>
