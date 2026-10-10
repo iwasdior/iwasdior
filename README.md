@@ -47,8 +47,8 @@
   </tr>
   <tr>
     <td valign="top">
-      <!-- Text box: this text is sized to match the height of the left column.
-           If you replace it with shorter text, the gap above the Spotify badge will come back. -->
+      <!--TB MATCH TO SIZE OF COLUMN.
+           NOTE: GAP WILL COME BACK IF YOU REPLACE OG WITH SHORTER TEXT. -->
       <h2>⚙️ Projects</h2>
       <p>From time to time, I'll work on something big enough to share with the world. As of right now, **I am not working on anything**. Apolocheese.</p>
       <ul>
@@ -57,7 +57,6 @@
         <li>🔧 <b>NA:</b> WIP.</li>
         <li>📚 <b>NA:</b> WIP.</li>
       </ul>
-      <p>I need to take up some space. I need to take up some space. I need to take up some space. I need to take up some space. I need to take up some space. </p>
     </td>
   </tr>
 </table>
