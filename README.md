@@ -26,7 +26,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="top">
-      <img src="https://tenor.com/eakQto5JWnt.gif" width="100%" alt="hi" />
+      <img src="deepwoken.gif" width="100%" alt="hi" />
     </td>
   </tr>
 </table>
