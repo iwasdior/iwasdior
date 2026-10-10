@@ -37,7 +37,7 @@
     <td width="50%" align="center" valign="top">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=iwasdior&theme=dark&hide_border=true" width="100%" alt="GitHub Streak" />
       <br /><br />
-      <img src="YOUR_IMAGE_URL_HERE" width="100%" alt="erm" />
+      <img src="destroyman-destroyman-iii.gif" width="100%" alt="erm" />
     </td>
   </tr>
 </table>
