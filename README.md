@@ -20,7 +20,7 @@
         <li>📌 <b>Located:</b> Maryland</li>
         <li>📖 <b>Favorite Media:</b> Dante's Inferno</li>
       </ul>
-    <p>I am an enthusiast of all things technology. I can talk about random things related to that topic for hours and hours. I also listen to music, but not all too much.</p>
+      <p>I am an enthusiast of all things technology. I can talk about random things related to that topic for hours and hours. I also listen to music, but not all too much.</p>
     </td>
     <td width="40%" align="center" valign="top">
       <img src="https://raw.githubusercontent.com/iwasdior/iwasdior/main/deepwoken.gif" width="100%" alt="graphic" />
@@ -47,12 +47,16 @@
   </tr>
   <tr>
     <td valign="top">
-      <!-- Text box: edit the heading, paragraph, and list however you like -->
+      <!-- Text box: this text is sized to match the height of the left column.
+           If you replace it with shorter text, the gap above the Spotify badge will come back. -->
       <h2>⚙️ Projects</h2>
-      <p>No projects at the moment. Apolocheese.</p>
+      <p>These are the things I'm building, tinkering with, and learning right now. Swap the placeholders below for your real projects, and add a link to each repo if it's public.</p>
       <ul>
-        <li>🛠️ <b>WIP:</b> N/A</li>
-        <li>🎵 <b>WIP:</b> N/A</li>
+        <li>🤖 <b>Robotics:</b> Describe a robot or electronics build, what it does, and what you learned from it.</li>
+        <li>💻 <b>Coding:</b> Name a program, site, or script you wrote, and the language or tools you used.</li>
+        <li>🔧 <b>Engineering:</b> A design, build, or experiment you're proud of, even if it's still unfinished.</li>
+        <li>🌍 <b>Big picture:</b> Something that ties back to improving people's lives in Maryland and beyond.</li>
+        <li>📚 <b>Learning:</b> A topic, language, or skill you're studying this month.</li>
       </ul>
     </td>
   </tr>
