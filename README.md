@@ -26,7 +26,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="top">
-      <img src="[https://preview.redd.it/here-is-the-high-res-version-of-destroyman-iii-in-case-v0-j6jriymxcra1.gif?format=png8&s=24544" width="100%" alt="Dior Graphic](https://preview.redd.it/here-is-the-high-res-version-of-destroyman-iii-in-case-v0-j6jriymixcra1.gif?format=png8&s=24544b682d82371517ec0a2e35bad5cd9b7895ae)" />
+      <img src="https://preview.redd.it/here-is-the-high-res-version-of-destroyman-iii-in-case-v0-j6jriymixcra1.gif?format=png8&s=24544b682d82371517ec0a2e35bad5cd9b7895ae" />
     </td>
   </tr>
 </table>
