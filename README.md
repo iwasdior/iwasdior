@@ -25,7 +25,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="top">
-      <img src="./deepwoken.gif" width="100%" alt="wylf" />
+      <img src="./deepwoke.gif" width="100%" alt="destroyman3" />
     </td>
   </tr>
 
