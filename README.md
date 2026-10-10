@@ -29,9 +29,13 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dior&show_icons=true&theme=dark&hide_border=true" alt="dior's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dior&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
-</p>
+<table border="0">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" width="100%" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" width="100%" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>
