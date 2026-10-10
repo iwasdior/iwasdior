@@ -30,12 +30,14 @@
 </table>
 
   <!-- Bottom Row: GitHub Stats & Streak Stats -->
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=iwasdior&show_icons=true&theme=dark&hide_border=true" width="100%" alt="GitHub Stats" />
+<tr>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" height="140px" alt="GitHub Stats" />
     </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=iwasdior&theme=dark&hide_border=true" width="100%" alt="GitHub Streak" />
+    <td width="20%" align="center" valign="middle">
+      <p><i>"Engineers turn dreams into reality."</i></p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" height="140px" alt="GitHub Streak" />
     </td>
   </tr>
-</table>
