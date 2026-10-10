@@ -39,9 +39,9 @@
     <td width="50%" align="center" valign="top">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=iwasdior&theme=dark&hide_border=true" width="100%" alt="GitHub Streak" />
       <br /><br />
-      <!-- Song Card for 50//50 - Vantage -->
+      <!-- Local Cover Image linked to Spotify -->
       <a href="https://open.spotify.com/track/40bj08VSaRDyZ2Z94ystNs?si=48e5c0cef9204373">
-        <img src="https://embed.spotify.com/oembed?url=https://open.spotify.com/track/40bj08VSaRDyZ2Z94ystNs" width="100%" alt="Vantage - 50//50" />
+        <img src="./cover.png" width="100%" alt="50//50 by Vantage" />
       </a>
     </td>
   </tr>
