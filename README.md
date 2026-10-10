@@ -26,7 +26,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="top">
-      <img src="https://tenor.com/df1SgolMWAt.gif" />
+      <img src="https://tenor.com/eakQto5JWnt.gif" />
     </td>
   </tr>
 </table>
