@@ -29,15 +29,25 @@
     </td>
   </tr>
 
-  <!-- Bottom Row: Stats & Image Filler -->
+  <!-- Bottom Row: Left Stats & Right Nested Box Column -->
   <tr>
     <td width="50%" align="center" valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=iwasdior&show_icons=true&theme=dark&hide_border=true&hide_rank=true" width="100%" alt="GitHub Stats" />
     </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=iwasdior&theme=dark&hide_border=true" width="100%" alt="GitHub Streak" />
-      <hr style="border: 1px solid #30363d; margin: 10px 0;" />
-      <img src="destroyman-destroyman-iii.gif" width="100%" alt="erm" />
+    <td width="50%" valign="top">
+      <!-- Nested Table to create framed sub-boxes -->
+      <table width="100%">
+        <tr>
+          <td align="center" valign="top">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=iwasdior&theme=dark&hide_border=true" width="100%" alt="GitHub Streak" />
+          </td>
+        </tr>
+        <tr>
+          <td align="center" valign="top">
+            <img src="destroyman-destroyman-iii.gif" width="100%" alt="erm" />
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
-</table>s
+</table>
