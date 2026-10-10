@@ -29,35 +29,22 @@
     </td>
   </tr>
 
-  <!-- Bottom Row: Left (Stats + GIF) & Right (Streak + Spotify) -->
+  <!-- Bottom Row: Equal Height Side-by-Side Layout -->
   <tr>
-    <td width="50%" valign="top">
-      <table width="100%">
-        <tr>
-          <td align="center" valign="top">
-            <img src="https://github-readme-stats.vercel.app/api?username=iwasdior&show_icons=true&theme=dark&hide_border=true&hide_rank=true" width="100%" alt="GitHub Stats" />
-          </td>
-        </tr>
-        <tr>
-          <td align="center" valign="top">
-            <img src="destroyman-destroyman-iii.gif" width="100%" alt="erm" />
-          </td>
-        </tr>
-      </table>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=iwasdior&show_icons=true&theme=dark&hide_border=true&hide_rank=true" width="100%" alt="GitHub Stats" />
+      <br /><br />
+      <img src="destroyman-destroyman-iii.gif" width="100%" alt="erm" />
     </td>
-    <td width="50%" valign="top">
-      <table width="100%">
-        <tr>
-          <td align="center" valign="top">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=iwasdior&theme=dark&hide_border=true" width="100%" alt="GitHub Streak" />
-          </td>
-        </tr>
-        <tr>
-          <td align="center" valign="top">
-            <a href="https://spotify-github-readme.vercel.app/api/spotify-compiler">
-              <img src="https://spotify-github-readme.vercel.app/api/spotify-playing" width="100%" alt="Spotify Now Playing" />
-            </a>
-          </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=iwasdior&theme=dark&hide_border=true" width="100%" alt="GitHub Streak" />
+      <br /><br />
+      <a href="https://spotify-github-readme.vercel.app/api/spotify-compiler">
+        <img src="https://novathevserver.vercel.app/api/spotify" width="100%" alt="Spotify Now Playing" />
+      </a>
+    </td>
+  </tr>
+</table>
         </tr>
       </table>
     </td>
