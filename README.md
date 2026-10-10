@@ -26,7 +26,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="top">
-      <img src="<div class="tenor-gif-embed" data-postid="2597310860774066527" data-share-method="host" data-aspect-ratio="0.770833" data-width="100%"><a href="https://tenor.com/view/woken-channel-youtube-destroyman-halloween-deepwoken-gif-2597310860774066527">Woken Channel Youtube Destroyman Sticker</a>from <a href="https://tenor.com/search/woken+channel+youtube-stickers">Woken Channel Youtube Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" />
+      <img src="https://tenor.com/df1SgolMWAt.gif" />
     </td>
   </tr>
 </table>
