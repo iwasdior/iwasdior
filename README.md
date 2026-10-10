@@ -25,7 +25,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="top">
-      <img src="./your-gif-filename.gif" width="100%" alt="Dior Graphic" />
+      <img src="./iwasdior" width="100%" alt="wylf" />
     </td>
   </tr>
 </table>
@@ -34,10 +34,10 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&hide_rank=true" width="100%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=iwasdior&show_icons=true&theme=dark&hide_border=true&hide_rank=true" width="100%" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" width="100%" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=iwasdior&theme=dark&hide_border=true" width="100%" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
