@@ -39,14 +39,8 @@
     <td width="50%" align="center" valign="top">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=iwasdior&theme=dark&hide_border=true" width="100%" alt="GitHub Streak" />
       <br /><br />
-      <a href="https://spotify-github-readme.vercel.app/api/spotify-compiler">
-        <img src="https://novathevserver.vercel.app/api/spotify" width="100%" alt="Spotify Now Playing" />
-      </a>
-    </td>
-  </tr>
-</table>
-        </tr>
-      </table>
+      <!-- Custom Chosen Song Widget -->
+      <img src="https://api.vantezzen.io/music?title=YOUR_SONG_TITLE&artist=YOUR_ARTIST_NAME&theme=dark&bg=0d1117" width="100%" alt="Now Playing" />
     </td>
   </tr>
 </table>
