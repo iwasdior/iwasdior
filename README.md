@@ -25,23 +25,22 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="top">
-      <img src="./deepwoken.gif" width="100%" alt="graphic" />
+      <img src="https://raw.githubusercontent.com/iwasdior/iwasdior/main/deepwoken.gif" width="100%" alt="graphic" />
     </td>
   </tr>
-
   <!-- Bottom Row: Equal Height Side-by-Side Layout -->
-  <tr>
+<tr>
     <td width="50%" align="center" valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=iwasdior&show_icons=true&theme=dark&hide_border=true&hide_rank=true" width="100%" alt="GitHub Stats" />
       <br /><br />
-      <img src="destroyman-destroyman-iii.gif" width="100%" alt="erm" />
+      <img src="https://raw.githubusercontent.com/iwasdior/iwasdior/main/destroyman-destroyman-iii.gif" width="100%" alt="erm" />
     </td>
     <td width="50%" align="center" valign="top">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=iwasdior&theme=dark&hide_border=true" width="100%" alt="GitHub Streak" />
       <br /><br />
       <!-- Local Cover Image linked to Spotify -->
       <a href="https://open.spotify.com/track/40bj08VSaRDyZ2Z94ystNs?si=48e5c0cef9204373">
-        <img src="./cover.png" width="100%" alt="50//50 by Vantage" />
+        <img src="https://raw.githubusercontent.com/iwasdior/iwasdior/main/cover.png" width="100%" alt="50//50 by Vantage" />
       </a>
     </td>
   </tr>
