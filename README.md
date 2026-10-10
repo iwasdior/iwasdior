@@ -38,3 +38,9 @@
     </td>
   </tr>
 </table>
+
+<td width="50%" align="center" valign="top">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" width="100%" alt="GitHub Streak" />
+  <br />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=22C55E&center=true&vCenter=true&width=300&lines=Engineering+%26+Robotics;High+School+Developer;Building+Future+Projects" alt="Typing SVG" />
+</td>
