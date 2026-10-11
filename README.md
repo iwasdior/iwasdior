@@ -50,7 +50,7 @@
       <!--TB MATCH TO SIZE OF COLUMN.
            NOTE: GAP WILL COME BACK IF YOU REPLACE OG WITH SHORTER TEXT. -->
       <h2>⚙️ Projects</h2>
-      <p>From time to time, I'll work on something big enough to share with the world. As of right now, <b><i>I am not working on anything</i>/b>. Apolocheese.</p>
+      <p>From time to time, I'll work on something big enough to share with the world. As of right now, <b><i>I am not working on anything</i></b>. Apolocheese.</p>
       <ul>
         <li>🤖 <b>NA:</b> WIP.</li>
         <li>💻 <b>NA:</b> WIP.</li>
